@@ -1,0 +1,52 @@
+body {
+  background-color: lightgray; /* Menambahkan warna pada body background */
+}
+
+.container{
+    background-color: white;
+    padding: 15px; /* Menambahkan jarah agar tidak terlalu mepet */
+}
+
+.section-menu {
+    padding: 15px;
+}
+
+.form-container {
+  background-color: #fff; /* Latar belakang putih untuk form */
+  padding: 20px; /* Ruang di dalam container */
+  border: 1px solid #ddd; /* Garis border */
+  border-radius: 8px; /* Sudut yang melengkung */
+  max-width: 600px; /* Lebar maksimum container */
+  margin: 20px auto; /* Jarak atas dan bawah, tengah horizontal */
+}
+
+.btn-form-container {
+ /* CSS untuk button */
+  button {
+  padding: 10px 15px; /* Jarak di sekitar teks */
+  margin-right: 10px; /* Jarak antar tombol */
+  border: none; /* Menghilangkan border default */
+  border-radius: 4px; /* Membuat sudut tombol membulat */
+  background-color: #5a5a5c; /* Latar belakang abu */
+  color: white; /* Teks putih */
+  cursor: pointer; /* Mengubah kursor menjadi pointer saat hover */
+  font-size: 16px; /* Ukuran font */
+  font-family: Arial, sans-serif; /* Font yang digunakan */
+}
+
+button:hover {
+  background-color: #101010; /* Latar belakang hitam gelap saat hover */
+  color: white; /* Teks tetap putih saat hover */
+}
+
+}
+
+.pemesanan-container {
+  background-color: #fff; /* Latar belakang putih untuk form */
+  padding: 20px; /* Ruang di dalam container */
+  border: 1px solid #ddd; /* Garis border abu-abu muda */
+  border-radius: 8px; /* Sudut yang melengkung */
+  max-width: 600px; /* Lebar maksimum container */
+  margin: 20px auto; /* Jarak atas dan bawah, tengah horizontal */
+}
+
